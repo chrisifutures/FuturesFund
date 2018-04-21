@@ -1,0 +1,25 @@
+{
+  "pets": [
+    {
+      "name" : "Butch Catsidy",
+      "species" : "Cat",
+      "favFoods" : ["wet food", "dry food", "any food"],
+      "birthYear" : 2016,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+      "name" : "Chewbarka",
+      "species" : "Dog",
+      "favFoods" : ["smooshy stuff", "own poop", "food that can kill me"],
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Allie Cat",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    }
+  ]
+}
